@@ -1,4 +1,4 @@
-# Medical LLM Evaluation – Moaath Almohammad Alshaikh
+# Medical QA Evaluation Using Open-Source Small Language Models – Moaath Almohammad Alshaikh
 
 **Universidade Federal de Sergipe (UFS)**  
 **Disciplina:** Tópicos Avançados em Computação  
