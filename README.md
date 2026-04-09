@@ -1,7 +1,7 @@
 # Medical QA Evaluation Using Open-Source Small Language Models – Moaath Almohammad Alshaikh
 
 **Federal University of Sergipe (UFS) | Universidade Federal de Sergipe (UFS)**  
-**Disciplina:** Advanced Topics in Software Engineering and Information Systems I
+**Disciplina:** Advanced Topics in Software Engineering and Information Systems I  
 **Professor:** Glauco Carneiro  
 **Semester:** 2026.1  
 **Team:** 5 – Medical Domain  
