@@ -4,7 +4,7 @@
 **Disciplina:** Advanced Topics in Software Engineering and Information Systems I
 **Professor:** Glauco Carneiro  
 **Semestre:** 2026.1  
-**Equipe:** 5 – Medical Domain
+**Equipe:** 5 – Medical Domain  
 **Aluno:** Moaath Almohammad Alshaikh — Matrícula: 202611011441
 
 ---
