@@ -89,14 +89,13 @@ Each model was prompted to output a single letter (A–F). The predicted letter 
 
 ## Analysis & Discussion
 
-**Mistral-7B-Instruct** was the clear leader on open-ended questions, achieving the highest mean score (0.612) and the most "excellent" responses (7 out of 17). Despite this, its MCQ accuracy was tied for last at 33.3%, suggesting it reasons well in free-form contexts but struggles with structured multiple-choice.
+**Mistral-7B-Instruct** was best at open-ended — mean score 0.61, with 7 excellent answers. But it scored only 33% on multiple choice.
 
-**Qwen1.5-1.8B** performed surprisingly competitively for a 1.8B model, narrowly leading on MCQ accuracy (37%) and achieving a decent open-ended mean (0.447). Its smaller size makes it a computationally attractive option.
+**Qwen1.5-1.8B** was slightly better at multiple choice — 37%. Good result for such a small model.
 
-**BioMistral-7B**, despite being domain-specific (pre-trained on medical literature), did not outperform the general-purpose Mistral on open-ended tasks in this evaluation. This may reflect limitations in instruction-following for the specific prompt format used.
+**BioMistral-7B** was trained on medical texts but still scored the lowest on open-ended questions. Domain training alone is not enough.
 
-Overall, MCQ accuracy across all three models was below 40%, which reflects the difficulty of the USMLE questions and the inherent limitations of models that were not fine-tuned for clinical reasoning tasks. The open-ended format, evaluated through keyword coverage, revealed more differentiation between models.
-
+Overall, all three models scored below 40% on multiple choice. USMLE questions are hard. Open-ended results showed more difference between the models.
 ---
 
 ## Repository Structure
