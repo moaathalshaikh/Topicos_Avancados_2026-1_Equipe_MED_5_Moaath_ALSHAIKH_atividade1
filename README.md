@@ -124,7 +124,8 @@ Overall, all three models scored below 40% on multiple choice. USMLE questions a
 │   └── qwen_summary.csv
 │
 ├── report/                            ← activity report (PDF/DOCX)
-│   └── Moaath_Paper_Atividade_1.docx
+│   ├── Moaath_Paper_Atividade_1.docx
+│   └── Moaath_Atividade_1_EN.docx
 │
 └── video/                             ← demonstration video link
     └── VIDEO.md
