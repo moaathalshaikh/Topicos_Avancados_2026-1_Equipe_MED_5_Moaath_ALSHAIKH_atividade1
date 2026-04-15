@@ -105,7 +105,7 @@ Overall, all three models scored below 40% on multiple choice. USMLE questions a
 ├── README.md                          ← main repository overview + video link
 │
 ├── Moaath/                            ← curation files and individual README
-│   └── README_Moaath.md
+│   └── SUBMISSION.md
 │
 ├── notebooks-ipynb/                   ← inference notebooks (one per model)
 │   ├── moaath_BioMistral-7B.ipynb
