@@ -102,13 +102,32 @@ Overall, all three models scored below 40% on multiple choice. USMLE questions a
 
 ```
 .
-├── README_Moaath.md                          ← this file
-├── moaath_BioMistral-7B.ipynb               ← BioMistral inference notebook
-├── moaath_Mistral_7B_Instruct_v0_1.ipynb   ← Mistral inference notebook
-├── moaath_Qwen1_5-1_8B-Chat.ipynb          ← Qwen inference notebook
-├── biomistral_summary.csv                   ← BioMistral results summary
-├── mistral_summary.csv                      ← Mistral results summary
-└── qwen_summary.csv                         ← Qwen results summary
+├── README.md                          ← main repository overview + video link
+│
+├── Moaath/                            ← curation files and individual README
+│   └── README_Moaath.md
+│
+├── notebooks-ipynb/                   ← inference notebooks (one per model)
+│   ├── moaath_BioMistral-7B.ipynb
+│   ├── moaath_Mistral_7B_Instruct_v0_1.ipynb
+│   └── moaath_Qwen1_5-1_8B-Chat.ipynb
+│
+├── results/                           ← CSV output files per model
+│   ├── biomistral_mcq_moaath.csv
+│   ├── biomistral_open_moaath.csv
+│   ├── biomistral_summary.csv
+│   ├── mistral_mcq_moaath.csv
+│   ├── mistral_open_moaath.csv
+│   ├── mistral_summary.csv
+│   ├── qwen_mcq_moaath.csv
+│   ├── qwen_open_moaath.csv
+│   └── qwen_summary.csv
+│
+├── report/                            ← activity report (PDF/DOCX)
+│   └── Moaath_Paper_Atividade_1.docx
+│
+└── video/                             ← demonstration video link
+    └── VIDEO.md
 ```
 
 ---
