@@ -1,4 +1,5 @@
-# Activity 1 — Open-Source Small Language Model Evaluation on Medical Question Answering – Moaath Almohammad Alshaikh
+# Activity 1 — Open-Source Small Language Model Evaluation on Medical Question Answering 
+# Moaath Almohammad Alshaikh
 
 **Federal University of Sergipe (UFS) | Universidade Federal de Sergipe (UFS)**  
 **Disciplina:** Advanced Topics in Software Engineering and Information Systems I  
